@@ -1,0 +1,23 @@
+{
+  "name": "Nuxt-demo",
+  "version": "1.0.0",
+  "description": "一个简单的Nuxt.js实践demo",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nuxt"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jobinben/Nuxt-demo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jobinben/Nuxt-demo/issues"
+  },
+  "homepage": "https://github.com/jobinben/Nuxt-demo#readme",
+  "dependencies": {
+    "nuxt": "^2.15.8"
+  }
+}
